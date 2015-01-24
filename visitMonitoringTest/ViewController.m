@@ -2,8 +2,8 @@
 //  ViewController.m
 //  visitMonitoringTest
 //
-//  Created by Akihiro Uehara on 2014/10/03.
-//  Copyright (c) 2014年 Akihiro Uehara. All rights reserved.
+//  Created by Laure Linn on 8/21/14.
+//  Copyright (c) 2014 LAL. All rights reserved.
 //
 
 #import "ViewController.h"

@@ -2,8 +2,8 @@
 //  currentLocationViewController.m
 //  TestApp
 //
-//  Created by Steve Schauer on 6/18/14.
-//  Copyright (c) 2014 Steve Schauer. All rights reserved.
+//  Created by Laure Linn on 8/21/14.
+//  Copyright (c) 2014 LAL. All rights reserved.
 //
 
 #import "currentLocationViewController.h"
